@@ -4,6 +4,8 @@ Este repósitorio é para salvar e acompanhar meus estudos de **Python**.
 
 Lista de **[Exercícios](./lista-exercicios.md)**.
 
+Exercícios já resolvidos [PythonExercícios](./PythonExercícios).
+
 ---
 
 Curso feio através do [Curso em Vídeo](https://www.youtube.com/CursoemV%C3%ADdeo).
