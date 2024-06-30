@@ -8,6 +8,6 @@ Exercícios já resolvidos [PythonExercícios](./PythonExercícios).
 
 ---
 
-Curso feio através do [Curso em Vídeo](https://www.youtube.com/CursoemV%C3%ADdeo).
+Curso feito através do [Curso em Vídeo](https://www.youtube.com/CursoemV%C3%ADdeo).
 
 Agradecimentos ao Professor [Gustavo Guanabara](https://github.com/gustavoguanabara). 
