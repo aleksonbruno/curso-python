@@ -14,9 +14,9 @@
 
 - [x] **EXERCÍCIO 007** - Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
-- [ ] **EXERCÍCIO 008** - Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+- [x] **EXERCÍCIO 008** - Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
-- [ ] **EXERCÍCIO 009** - Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+- [x] **EXERCÍCIO 009** - Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 
 - [ ] **EXERCÍCIO 010** - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar.  
 Considere  
