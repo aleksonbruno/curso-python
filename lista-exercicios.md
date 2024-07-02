@@ -8,11 +8,11 @@
 
 - [x] **EXERCÍCIO 004** - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-- [ ] **EXERCÍCIO 005** - Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+- [x] **EXERCÍCIO 005** - Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
 
-- [ ] **EXERCÍCIO 006** - Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+- [x] **EXERCÍCIO 006** - Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 
-- [ ] **EXERCÍCIO 007** - Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+- [x] **EXERCÍCIO 007** - Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 - [ ] **EXERCÍCIO 008** - Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
