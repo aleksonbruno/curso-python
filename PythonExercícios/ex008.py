@@ -1,3 +1,7 @@
 m = float(input('Escreva um valor em metros: '))
+print(f'{m}m em decímetros é {m*10:.0f}dm')
 print(f'{m}m em centímetros é {m*100:.0f}cm')
 print(f'{m}m em milímetros é {m*1000:.0f}mm')
+print(f'{m}m em decâmetros é {m/10}dam')
+print(f'{m}m em hectômetros é {m/100}hm')
+print(f'{m}m em quilômetros é {m/1000}km')
