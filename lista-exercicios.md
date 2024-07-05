@@ -27,3 +27,7 @@ US$1,00 = R$3,27
 - [x] **EXERCÍCIO 012** - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
 - [X] **EXERCÍCIO 013** - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+
+- [x] **EXERCÍCIO 014** - Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+
+- [x] **EXERCÍCIO 015** - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
