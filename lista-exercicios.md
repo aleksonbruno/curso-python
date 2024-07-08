@@ -32,17 +32,17 @@
 
 - [x] **EXERCÍCIO 015** - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
-- [ ] **EXERCÍCIO 016** - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção intera.  
+- [x] **EXERCÍCIO 016** - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção intera.
     Ex:  
     Digite um número: 6.127  
     O número 6.127 tem a parte Inteira 6.
 
-- [ ] **EXERCÍCIO 017** - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
+- [x] **EXERCÍCIO 017** - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
 
-- [ ] **EXERCÍCIO 018** - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+- [x] **EXERCÍCIO 018** - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 
-- [ ] **EXERCÍCIO 019** - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e ecrevendo o nome do escolhido.
+- [x] **EXERCÍCIO 019** - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e ecrevendo o nome do escolhido.
 
-- [ ] **EXERCÍCIO 020** - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatros alunos e mostre a ordem sorteada.
+- [x] **EXERCÍCIO 020** - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatros alunos e mostre a ordem sorteada.
 
-- [ ] **EXERCÍCIO 021** - Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+- [x] **EXERCÍCIO 021** - Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
